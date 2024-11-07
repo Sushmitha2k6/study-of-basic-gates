@@ -1,4 +1,8 @@
 ### EXPERIMENT - 1
+**NAME:SUSHMITHA S**
+
+**REGISTERATION NUMBER:24008099**
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
