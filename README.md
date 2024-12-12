@@ -1,7 +1,9 @@
-### EXPERIMENT - 1
+
 **NAME:SUSHMITHA S**
 
 **REGISTERATION NUMBER:24008099**
+
+## EXPERIMENT - 1
 
 **AIM:** 
 
@@ -82,8 +84,11 @@ Y= A⊕B
 
 **RTL TIMING DIAGRAM**
 
-![Screenshot (9)](https://github.com/user-attachments/assets/ea95f2bf-d39e-44cd-9711-8c84c0657449)
 
-**RESULT** studied and verified the truth table of logic gates 
+![RTL DIAGRAMM1](https://github.com/user-attachments/assets/0fa23945-65d5-4595-a3cd-e55b1b8bf5ea)
+
+**RESULT** 
+
+studied and verified the truth table of logic gates .
 
 
